@@ -1,4 +1,3 @@
-using ApiEndpoints.Data;
 using Carter;
 
 var builder = WebApplication.CreateBuilder(args);
