@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "pPyUjwubGaydJvynn+T6KXo5iTpbab1x+pE2oeWI9TMtWnnD0PClUNUuBpQ5tNOhxNuNnIbOkS4+B5tGt6PZiQ==",
+  "dgSpecHash": "O2LN0laDUanfMEtAwB3UwuJ7xgXTtPGq+Jtt8h4S1tkRYoA1s9qoCFWiOa5S8ipOxhE5CMtdOGu5GUrpUpaa8g==",
   "success": true,
   "projectFilePath": "C:\\Projects\\NetCore\\API\\ApiEndpoints\\ApiEndpoints\\ApiEndpoints.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\betor\\.nuget\\packages\\carter\\7.1.0\\carter.7.1.0.nupkg.sha512",
     "C:\\Users\\betor\\.nuget\\packages\\erroror\\1.3.0\\erroror.1.3.0.nupkg.sha512",
-    "C:\\Users\\betor\\.nuget\\packages\\fluentvalidation\\11.0.1\\fluentvalidation.11.0.1.nupkg.sha512",
+    "C:\\Users\\betor\\.nuget\\packages\\fluentvalidation\\11.7.1\\fluentvalidation.11.7.1.nupkg.sha512",
     "C:\\Users\\betor\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
     "C:\\Users\\betor\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\betor\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.11\\microsoft.data.sqlite.core.7.0.11.nupkg.sha512",
@@ -26,6 +26,7 @@
     "C:\\Users\\betor\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\betor\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
     "C:\\Users\\betor\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\betor\\.nuget\\packages\\o9d.aspnet.fluentvalidation\\0.1.1\\o9d.aspnet.fluentvalidation.0.1.1.nupkg.sha512",
     "C:\\Users\\betor\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.4\\sqlitepclraw.bundle_e_sqlite3.2.1.4.nupkg.sha512",
     "C:\\Users\\betor\\.nuget\\packages\\sqlitepclraw.core\\2.1.4\\sqlitepclraw.core.2.1.4.nupkg.sha512",
     "C:\\Users\\betor\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.4\\sqlitepclraw.lib.e_sqlite3.2.1.4.nupkg.sha512",

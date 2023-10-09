@@ -16,8 +16,10 @@
     <ItemGroup>
       <PackageReference Include="Carter" Version="7.1.0" />
       <PackageReference Include="ErrorOr" Version="1.3.0" />
+      <PackageReference Include="FluentValidation" Version="11.7.1" />
       <PackageReference Include="MediatR" Version="12.1.1" />
       <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="7.0.11" />
+      <PackageReference Include="O9d.AspNet.FluentValidation" Version="0.1.1" />
     </ItemGroup>
     
 </Project>

@@ -1,5 +1,4 @@
-﻿using ApiEndpoints.Application.Common.Errors;
-using ApiEndpoints.Infrastructure;
+﻿using ApiEndpoints.Infrastructure;
 using Carter.ModelBinding;
 using ErrorOr;
 using FluentValidation;
